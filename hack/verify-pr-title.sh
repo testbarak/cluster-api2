@@ -15,6 +15,7 @@
 # limitations under the License.
 
 # Define regex patterns
+echo "111111test111111"
 WIP_REGEX="^\W?WIP\W"
 TAG_REGEX="^\[[[:alnum:]\._-]*\]"
 PR_TITLE="$1"
